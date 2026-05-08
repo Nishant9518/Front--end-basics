@@ -11,3 +11,18 @@ a{
     font-weight: bold;
     color: tomato;
 }
+body{
+    margin: 0%;
+    background-color: burlywood;
+}
+#search{
+    margin-left: 400px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: chocolate;
+}
